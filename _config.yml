@@ -1,14 +1,14 @@
 github:
     is_project_page: false
   
-  plugins:
-    - jekyll-relative-links
-  relative_links:
-    enabled:     true
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled:     true
     
-  theme: jekyll-theme-cayman
-  
-  title: [Scrum 指南™]
-  description: [官方版的Scrum 指南是英文。但是我們可以一起打造我們的社群版本!]
-  show_downloads: false
+theme: jekyll-theme-cayman
+ 
+title: [Scrum 指南™]
+description: [官方版的Scrum 指南是英文。但是我們可以一起打造我們的社群版本!]
+show_downloads: false
   
