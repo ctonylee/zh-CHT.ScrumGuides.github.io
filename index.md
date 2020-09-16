@@ -9,6 +9,7 @@
   * 英文版：[網頁版](https://www.scrumguides.org/scrum-guide.html)
   * 其他社群翻譯版本: [連結](https://www.scrumguides.org/download.html)
 
+
 ---
 
 
