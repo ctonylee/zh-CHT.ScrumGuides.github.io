@@ -3,7 +3,7 @@
 *   如果對這個網路HTML版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
 
 *  [ScrumGuides.guru 版](https://scrumguides.guru/)
-  * [简体中文](../zh-CHS/index.md)
+  * [简体中文](https://zh-chs.scrumguides.guru/)
 
 *  官方版 Scrum 指南™ ScrumGuides.org
   * 英文版：[網頁版](https://www.scrumguides.org/scrum-guide.html)
