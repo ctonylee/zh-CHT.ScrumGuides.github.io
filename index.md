@@ -1,8 +1,6 @@
 # 備註：
-
-*   如果對這個網路HTML版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
-
-*  [ScrumGuides.guru 版](https://scrumguides.guru/)
+* 如果對這個網路HTML版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
+* [ScrumGuides.guru 版](https://scrumguides.guru/)
   * [简体中文](https://zh-chs.scrumguides.guru/)
 
 *  官方版 Scrum 指南™ ScrumGuides.org
