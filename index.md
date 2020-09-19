@@ -10,16 +10,20 @@
   * 其他社群翻譯版本: [連結](https://www.scrumguides.org/download.html)
 
 
+--- 
+
+*   🚨 現在的翻譯有 3 個翻譯上的問題
+    *   [Scrum Review：“Informal Meeting" 應該被翻譯成 “非制式會議“、而不是 "正式但輕鬆的會議"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/2)
+    *   [Scrum 價值觀：“Commitment" 應該被翻譯成 “全力以赴“、而不是 "承擔"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/1)
+    *   ["Incremental" 應該是 "增量化的"，而不是 "逐步Increment" 或是 “漸進式”](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/3)
+
+
 ---
 
 
 # **Scrum 指南™**
 
 *   此HTML版本的Scrum指南是根據2017年11月版本的英文版[Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 翻譯的
-*   🚨 現在的翻譯有 [3 個翻譯上的問題](https://github.com/ToastedIceCream/scrumguides.github.io/issues?q=is%3Aissue+is%3Aopen+Traditional) , e.g.
-    *   "Informal Meeting" 被翻譯成 正式但輕鬆的會議 ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/2)
-    *   "Commitment" 被翻譯成 “承擔" ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/3) 其他文獻翻譯成 承諾
-    *   “Iterative and Incremental" 被翻譯成 "迭代和漸進式" 和 “迭代和逐步 Increment” ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/4)
 
 # Scrum 指南的目的
 
