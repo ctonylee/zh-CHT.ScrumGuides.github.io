@@ -3,7 +3,7 @@
 * [ScrumGuides.guru 版](https://scrumguides.guru/)
   * [简体中文](https://zh-chs.scrumguides.guru/)
 
-*  官方版 Scrum 指南™ ScrumGuides.org
+* 官方版 Scrum 指南™ ScrumGuides.org
   * 英文版：[網頁版](https://www.scrumguides.org/scrum-guide.html)
   * 其他社群翻譯版本: [連結](https://www.scrumguides.org/download.html)
 
