@@ -1,17 +1,13 @@
 # [ScrumGuides.guru 版本：](https://scrumguides.guru/)
 
-* 此HTML版本的Scrum指南是根據2017年11月版本的英文版[Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 翻譯的
+* 此 HTML 版本的 Scrum 指南是根據 2017 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 翻譯的
 * 如果對這個網路HTML版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
-* 🚨 現在的翻譯有 3 個翻譯上的問題
+* 🚨 現在的翻譯有 3 個需要注意的地方
     * [Scrum Review：“Informal Meeting" 應該被翻譯成 “非制式會議“、而不是 "正式但輕鬆的會議"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/2)
-    * [Scrum 價值觀：“Commitment" 應該被翻譯成 “全力以赴“、而不是 "承擔"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/1)
+    * [Scrum 價值觀：“Commitment" 應該被翻譯成 “全力以赴、承諾“、而不是 "承擔"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/1)
     * ["Incremental" 應該是 "增量化的"，而不是 "逐步Increment" 或是 “漸進式”](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/3)
 * 其他：
   * [简体中文版本](https://zh-chs.scrumguides.guru/)
-
-* 官方版 Scrum 指南™ ScrumGuides.org
-  * 英文版：[網頁版](https://www.scrumguides.org/scrum-guide.html)
-  * 其他社群翻譯版本: [連結](https://www.scrumguides.org/download.html)
 
 ---
 
@@ -422,9 +418,9 @@ Scrum 指南記錄了 Jeff Sutherland 和 Ken Schwaber 在二十多年間對 Scr
 <a name="acknowledgements-translators"></a>
 ## 致謝譯者
 
+*   [2017 11月 Scrum 指南™ 简体中文版](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Simplified.pdf)  
 *   [2017 10月Scrum 指南™ 繁體中文版](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf)  
     譯者: Finn YuYu Chang (張裕宇)、Terry Wang (王泰瑞)、Andrew Lin (林偉弘)
-*   [2017 11月 Scrum 指南™ 简体中文版](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Simplified.pdf)  
     译者: Jiancheng Zhou (周建成)
 
 ©2017 Ken Schwaber and Jeff Sutherland. Offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons. 使用本 Scrum 指南，您認可以及同意以創作共用的署名相同方式共享的條約。
