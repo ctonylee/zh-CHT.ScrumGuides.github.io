@@ -1,5 +1,5 @@
 ---
-title: {{ site.title }}
+title: Scrum 指南
 layout: sidebar_toc
 image: /assets/sg-guru-logo.png
 ---
