@@ -1,9 +1,6 @@
 ---
 title: Scrum 指南
 layout: sidebar_toc
-image: /assets/sg-guru-logo.png
-facebook:
-  app_id: 734176127193250
 ---
 
 # [ScrumGuides.guru 版本：](https://scrumguides.guru/)
