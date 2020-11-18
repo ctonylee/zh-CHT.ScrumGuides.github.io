@@ -4,6 +4,7 @@ github:
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 relative_links:
   enabled:     true
