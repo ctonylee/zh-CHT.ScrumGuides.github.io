@@ -1,11 +1,16 @@
+---
+title: {{ site.title }}
+layout: sidebar_toc
+---
+
 # [ScrumGuides.guru 版本：](https://scrumguides.guru/)
 
 * 此 HTML 版本的 Scrum 指南是根據 2017 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 翻譯的
-* 如果對這個網路HTML版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
+* 如果對這個網路 HTML 版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
 * 🚨 現在的翻譯有 3 個需要注意的地方
     * [Scrum Review：“Informal Meeting" 應該被翻譯成 “非制式會議“、而不是 "正式但輕鬆的會議"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/2)
     * [Scrum 價值觀：“Commitment" 應該被翻譯成 “全力以赴、承諾“、而不是 "承擔"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/1)
-    * ["Incremental" 應該是 "增量化的"，而不是 "逐步Increment" 或是 “漸進式”](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/3)
+    * ["Incremental" 應該是 "增量化的"，而不是 "逐步Increment"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/3)
 * 其他：
   * [简体中文版本](https://zh-chs.scrumguides.guru/)
 
