@@ -48,6 +48,18 @@ ul.inline_toc {
   li {
     padding-left: 0.3rem;
     background: white;
+    white-space:nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &:first-child{
+      border-top-left-radius:  5px;
+      border-top-right-radius: 5px;
+    }
+    &:last-child {
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px;
+    }
   }
 }
 
@@ -62,4 +74,9 @@ ul.inline_toc {
     text-decoration: none;
   }
 }
+
+footer {
+  display: none !important;
+}
+
 
