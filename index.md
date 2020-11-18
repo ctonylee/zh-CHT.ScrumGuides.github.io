@@ -6,11 +6,12 @@ layout: sidebar_toc
 # [ScrumGuides.guru 版本：](https://scrumguides.guru/)
 
 * 此 HTML 版本的 Scrum 指南是根據 2017 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 翻譯的
-* 如果對這個網路 HTML 版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
-* 🚨 現在的翻譯有 3 個需要注意的地方
+  * 如果對這個網路 HTML 版本有任何的問題、建議，歡迎在GitHub 上提出來討論 [連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues)
+  * 🚨 2017 ScrumGuides.org 上的 Scrum 指南 現在的翻譯有 4 個需要注意的地方
     * [Scrum Review：“Informal Meeting" 應該被翻譯成 “非制式會議“、而不是 "正式但輕鬆的會議"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/2)
     * [Scrum 價值觀：“Commitment" 應該被翻譯成 “全力以赴、承諾“、而不是 "承擔"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/1)
     * ["Incremental" 應該是 "增量化的"，而不是 "逐步Increment"](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/3)
+    * [Scrum Events：“Event" 應該被翻譯成 “事件“、而不是 "活動" #5](https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io/issues/5)
 * 其他：
   * [简体中文版本](https://zh-chs.scrumguides.guru/)
 
@@ -23,7 +24,7 @@ layout: sidebar_toc
 <a name="purpose"></a>
 # Scrum 指南的目的
 
-Scrum 是一個框架，這框架適用於開發，交付，與持續支援具有錯綜複雜的產品。這份指南包含 Scrum 的定義，其中定義涵蓋了 Scrum 中的角色，活動，產出物，與它們之間如何進行的規則。Scrum 是由 Ken Schwaber 和 Jeff Sutherland 共同發展出來的；Scrum 指南也是由他們所撰寫及提供，他們是 Scrum 指南背後的共同推手。
+Scrum 是一個框架，這框架適用於開發，交付，與持續支援具有錯綜複雜的產品。這份指南包含 Scrum 的定義，其中定義涵蓋了 Scrum 中的角色，🚨活動，產出物，與它們之間如何進行的規則。Scrum 是由 Ken Schwaber 和 Jeff Sutherland 共同發展出來的；Scrum 指南也是由他們所撰寫及提供，他們是 Scrum 指南背後的共同推手。
 
 <a name="definition"></a>
 # Scrum 的定義
@@ -68,7 +69,7 @@ Scrum 的精華在於小型的團隊。每個團隊都具有高度彈性和調�
 <a name="theory"></a>
 # Scrum 的理論
 
-Scrum 是立基於經驗導向的流程控制理論，或是經驗主義。經驗主義立論於知識來自於經驗和依照已知的資訊來下判斷。Scrum 使用迭代和逐步 Increment 的方式，來最大化可預測性和控制風險。
+Scrum 是立基於經驗導向的流程控制理論，或是經驗主義。經驗主義立論於知識來自於經驗和依照已知的資訊來下判斷。Scrum 使用迭代和🚨逐步 Increment 的方式，來最大化可預測性和控制風險。
 
 有三根支柱支撐了所有經驗導向的流程控制的實行：透明性，檢視性，調適性。
 
@@ -99,7 +100,7 @@ Scrum 的成員必須經常檢視 Scrum 的產出物和 Sprint 目標的進度�
 <a name="values"></a>
 # Scrum 價值觀
 
-當 Scrum Team 體現和活化承擔，勇氣，專注，開放和尊重這五種價值觀時，Scrum 的三 根支柱：透明性，檢視性，調適性就會出現並幫助大家建立信任。隨著 Scrum Team 成員 從事 Scrum 角色，活動和產出物的過程中，他們就會學習和探索這些價值。
+當 Scrum Team 體現和活化🚨承擔，勇氣，專注，開放和尊重這五種價值觀時，Scrum 的三 根支柱：透明性，檢視性，調適性就會出現並幫助大家建立信任。隨著 Scrum Team 成員 從事 Scrum 角色，活動和產出物的過程中，他們就會學習和探索這些價值。
 
 要成功運用 Scrum 取決於成員是否精通並融入這五個價值。成員個人承諾會達到 Scrum Team 的目標，Scrum Team members 有勇氣做對的事情和處理艱難的問題，每個人專注在 Sprint 的工作和 Scrum Team 的目標上，Scrum Team 和利害關係人同意對工作和工作上的 挑戰保持開放的心態，Scrum Team members 互相尊重對方是有能力和獨立的人。
 
@@ -191,7 +192,7 @@ Scrum Master 對組織提供多方面的服務，包含：
 <a name="events"></a>
 # Scrum 的活動
 
-Scrum 規定了幾項活動來創造規律性，以此來減少其它 Scrum 未定義的會議。這些活動都 是有時間盒限制的，也就是在某個時間長度內必須要完成。當 Sprint 開始，Sprint 的長度 就固定下來了，不可以縮短或是延長。剩下的活動在達成其目的後就可以結束了，以確保 在過程中只使用了適當的時間而不會造成流程中的浪費。 Sprint 本身包含了其他的活動，
+Scrum 規定了幾項🚨活動來創造規律性，以此來減少其它 Scrum 未定義的會議。這些活動都 是有時間盒限制的，也就是在某個時間長度內必須要完成。當 Sprint 開始，Sprint 的長度 就固定下來了，不可以縮短或是延長。剩下的活動在達成其目的後就可以結束了，以確保 在過程中只使用了適當的時間而不會造成流程中的浪費。 Sprint 本身包含了其他的活動，
 
 除了 Sprint 本身之外，每次活動都是用來檢視與調適某些 事情的正式機會，這些活動都是特別設計來促成嚴格的透明性與檢驗性。遺漏其中的任何 一種活動可能導致透明性降低，檢視和調適的機會變少。
 
@@ -282,7 +283,7 @@ Daily Scrums 改善溝通品質，淘汰其他會議，發現並移除開發上�
 <a name="events-review"></a>
 ## Sprint Review
 
-Sprint Review 是在 Sprint 結束時舉行，目的是檢視 Increment 以及在必要時調適 Product Backlog。在 Sprint Review 中，Scrum Team 和利害關係人一起協同合作檢視在 Sprint 中所 完成的事項。依照這些事項和在 Sprint 過程中 Product Backlog 的變動，參與者一起協同合 作討論接下來能做完哪些最有價值的事情。這是一個正式但輕鬆的會議，並不是一個進度 回報的會議，關於 Increment 的展示是為了引發意見的反饋和提升協同合作。
+Sprint Review 是在 Sprint 結束時舉行，目的是檢視 Increment 以及在必要時調適 Product Backlog。在 Sprint Review 中，Scrum Team 和利害關係人一起協同合作檢視在 Sprint 中所 完成的事項。依照這些事項和在 Sprint 過程中 Product Backlog 的變動，參與者一起協同合 作討論接下來能做完哪些最有價值的事情。這是一個🚨正式但輕鬆的會議，並不是一個進度 回報的會議，關於 Increment 的展示是為了引發意見的反饋和提升協同合作。
 
 對於為期一個月的 Sprint 來説，這是一個最多四個小時的會議。 在長度更短的 Sprint，通 常所需的時間更短。Scrum Master 確保這個會議活動的發生，以及出席人員了解這個會議 的目的。Scrum Master 教導參與的每個人如何在時間盒限制內完成會議。
 
