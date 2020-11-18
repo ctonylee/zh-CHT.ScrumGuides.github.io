@@ -1,6 +1,7 @@
 ---
 title: {{ site.title }}
 layout: sidebar_toc
+image: /assets/sg-guru-logo.png
 ---
 
 # [ScrumGuides.guru 版本：](https://scrumguides.guru/)
