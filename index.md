@@ -1,5 +1,5 @@
 ---
-title: 2020 Scrum 指南
+title: 2020 Scrum 指南（全中文繁體版）
 description: 讓我們一起創建社區版本以共享知識
 layout: sidebar_toc
 image: /assets/sg-guru-logo.png
