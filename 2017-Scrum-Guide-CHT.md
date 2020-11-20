@@ -2,7 +2,6 @@
 title: 2017 Scrum 指南
 description: 讓我們一起創建社區版本以共享知識
 layout: sidebar_toc
-image: /assets/sg-guru-logo.png
 ---
 
 # [ScrumGuides.guru 版本：](https://scrumguides.guru/)
