@@ -7,7 +7,7 @@ image: /assets/sg-guru-logo.png
 
 
 # 2020 Scrum 指南™
-* ScrumGuides.guru 全中文繁體版： [PDF](2020-Scrum-Guide-Chinese-Traditional(Full-Translation).pdf)
+* ScrumGuides.guru 全中文繁體版： [PDF ![PDF](/assets/Icons-mini-file_acrobat.gif)](2020-Scrum-Guide-Chinese-Traditional(Full-Translation).pdf)
   * 此版本的 Scrum 指南是根據 2020 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) 翻譯的
   * 如果對這個版本有任何的問題或建議，歡迎在 GitHub 上提出來討論 ([連結](https://github.com/ToastedIceCream/zh-cht.scrumguides.github.io/issues))
   * 另請參閱[全中文简体版](https://zh-chs.scrumguides.guru/)
