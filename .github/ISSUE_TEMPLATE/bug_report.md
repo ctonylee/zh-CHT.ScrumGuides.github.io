@@ -1,5 +1,5 @@
 ---
-name: 錯誤報告
+name: 錯誤報告 (Bug report)
 about: 提出報告以幫助我們改進
 title: ''
 labels: ''
