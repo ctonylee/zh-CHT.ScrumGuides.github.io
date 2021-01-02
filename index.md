@@ -13,10 +13,6 @@ image: /assets/sg-guru-logo.png
   * 另請參閱[全中文简体版](https://zh-chs.scrumguides.guru/)
 * ScrumGuides.org：Scrum 關鍵字不翻譯版（[連結](https://www.scrumguides.org/download.html)）
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v9.0&appId=1415709141862803&autoLogAppEvents=1" nonce="g2Q6GZuN"></script>
-<div class="fb-like" data-href="https://www.scrumguides.guru/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
-
 ---
 
 
